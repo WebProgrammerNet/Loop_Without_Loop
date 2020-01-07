@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\bin\Debug\netcoreapp2.2\Without_Loop_LoopProcess.deps.json
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\bin\Debug\netcoreapp2.2\Without_Loop_LoopProcess.runtimeconfig.json
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\bin\Debug\netcoreapp2.2\Without_Loop_LoopProcess.runtimeconfig.dev.json
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\bin\Debug\netcoreapp2.2\Without_Loop_LoopProcess.dll
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\bin\Debug\netcoreapp2.2\Without_Loop_LoopProcess.pdb
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.AssemblyInfo.cs
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.dll
+C:\Users\Code\source\repos\Without_Loop_LoopProcess\Without_Loop_LoopProcess\obj\Debug\netcoreapp2.2\Without_Loop_LoopProcess.pdb
